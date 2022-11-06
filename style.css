@@ -1,0 +1,17 @@
+.calculator{
+    margin-left: 700px;
+    margin-top: 300px;
+    
+}
+
+.btn{
+    background-color: greenyellow;
+    padding: 20px 30px;
+    font-size: medium;
+}
+
+#input{
+    height: 50px;
+    width: 280px;
+    font-size: large;
+}
